@@ -1,0 +1,95 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E303" />
+          <option value="E305" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="main.*" />
+          <option value="speech_recognition.__main__.str" />
+          <option value="speech_recognition.__main__.bytes" />
+          <option value="speech_recognition.__main__.KeyboardInterrupt" />
+          <option value="examples.audio_transcribe.os" />
+          <option value="os" />
+          <option value="examples.audio_transcribe.path" />
+          <option value="examples.audio_transcribe.print" />
+          <option value="sys" />
+          <option value="stat" />
+          <option value="setup.setuptools" />
+          <option value="setuptools" />
+          <option value="setup.distutils" />
+          <option value="distutils" />
+          <option value="setup.print" />
+          <option value="setup.install" />
+          <option value="setup.log" />
+          <option value="setup.setup" />
+          <option value="setup.open" />
+          <option value="subprocess" />
+          <option value="wave" />
+          <option value="aifc" />
+          <option value="math" />
+          <option value="audioop" />
+          <option value="collections" />
+          <option value="json" />
+          <option value="base64" />
+          <option value="hmac" />
+          <option value="threading" />
+          <option value="platform" />
+          <option value="hashlib" />
+          <option value="time" />
+          <option value="speech_recognition.ImportError" />
+          <option value="speech_recognition.urllib" />
+          <option value="speech_recognition.NotImplementedError" />
+          <option value="speech_recognition.isinstance" />
+          <option value="uuid" />
+          <option value="speech_recognition.int" />
+          <option value="speech_recognition.__exit__" />
+          <option value="speech_recognition.float" />
+          <option value="speech_recognition.AttributeError" />
+          <option value="speech_recognition.LooseVersion" />
+          <option value="speech_recognition.range" />
+          <option value="speech_recognition.chr" />
+          <option value="speech_recognition.bytes" />
+          <option value="speech_recognition.str" />
+          <option value="speech_recognition.len" />
+          <option value="speech_recognition.type" />
+          <option value="speech_recognition.hasattr" />
+          <option value="speech_recognition.EOFError" />
+          <option value="speech_recognition.open" />
+          <option value="speech_recognition.property" />
+          <option value="speech_recognition.io" />
+          <option value="speech_recognition.ValueError" />
+          <option value="speech_recognition.i" />
+          <option value="snowboydetect" />
+          <option value="speech_recognition.tuple" />
+          <option value="speech_recognition.all" />
+          <option value="speech_recognition.dict" />
+          <option value="speech_recognition.max" />
+          <option value="speech_recognition.min" />
+          <option value="speech_recognition.getattr" />
+          <option value="speech_recognition.monotonic" />
+          <option value="speech_recognition.RuntimeError" />
+          <option value="speech_recognition.Request" />
+          <option value="speech_recognition.OSError" />
+          <option value="tempfile" />
+          <option value="speech_recognition.classmethod" />
+          <option value="object.__getitem__" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
